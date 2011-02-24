@@ -3,6 +3,7 @@ MediaWiki Changelog Graphs
 
 Adds a special page showing a chart of wiki edits broken down by day, hour and month
 
+![Sample Image](sample.png "Sample Image")
 
 
 How to Install
